@@ -1,5 +1,7 @@
 # Streamlit app using Interactive Excel Aggregation.
 
+https://richiegarafola-kpi-sales.streamlitapp.com/
+
 ![app demo](Images/app.gif)
 
 Aggregate your Excel spreadsheets interactively!
